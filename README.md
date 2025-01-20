@@ -1,4 +1,4 @@
-# SA_bone_marrow
+# scRNA-seq analysis for Radhouani et al.
 scRNA-seq analysis for Radhouani et al. paper, Science Immunology, 2025.
 
 The running order of the scripts is as follows:
